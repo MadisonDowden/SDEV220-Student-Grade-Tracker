@@ -1,0 +1,49 @@
+{
+  "1001": {
+    "student_id": "1001",
+    "name": "Alex Johnson",
+    "courses": {
+      "Python Programming": {
+        "name": "Python Programming",
+        "grades": [
+          {
+            "assignment": "Variables Quiz",
+            "score": 92.0
+          },
+          {
+            "assignment": "OOP Project",
+            "score": 88.0
+          }
+        ]
+      },
+      "Database Fundamentals": {
+        "name": "Database Fundamentals",
+        "grades": [
+          {
+            "assignment": "SQL Lab",
+            "score": 95.0
+          }
+        ]
+      }
+    }
+  },
+  "1002": {
+    "student_id": "1002",
+    "name": "Jordan Lee",
+    "courses": {
+      "Web Development": {
+        "name": "Web Development",
+        "grades": [
+          {
+            "assignment": "HTML/CSS Project",
+            "score": 94.0
+          },
+          {
+            "assignment": "JavaScript Quiz",
+            "score": 87.0
+          }
+        ]
+      }
+    }
+  }
+}
